@@ -17,7 +17,7 @@ This repository is dedicated to documenting my journey through the PortSwigger W
 
 ## Resources
 
-- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- [PortSwigger Web Security Academy Labs](https://portswigger.net/web-security/all-labs)
 - [Burp Suite Documentation](https://portswigger.net/burp/documentation)
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
 
