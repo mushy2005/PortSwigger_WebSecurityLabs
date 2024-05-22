@@ -4,7 +4,7 @@ Welcome to my collection of write-ups for the PortSwigger Web Security Academy l
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
+1. [Introduction](PortSwigger_WebSecurityLabs)
 2. [Lab Write-ups](labs)
    - [Cross-Site Scripting (XSS)](labs/xss)
 4. [Resources](#resources)
