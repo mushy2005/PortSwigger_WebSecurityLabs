@@ -7,6 +7,7 @@ Welcome to my collection of write-ups for the PortSwigger Web Security Academy l
 1. [Introduction](labs/structure.md)
 2. [Lab Write-ups](labs)
    - [Cross-Site Scripting (XSS)](labs/xss)
+   - [Cross-Site Request Forgery (CSRF)](labs/csrf)
 4. [Resources](#resources)
 
 ## Introduction
