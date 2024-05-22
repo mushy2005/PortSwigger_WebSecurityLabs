@@ -8,7 +8,6 @@ Welcome to my collection of write-ups for the PortSwigger Web Security Academy l
 2. [Lab Write-ups](#lab-write-ups)
    - [Cross-Site Scripting (XSS)](#cross-site-scripting-xss)
 4. [Resources](#resources)
-5. [Contact](#contact)
 
 ## Introduction
 
