@@ -5,3 +5,5 @@
 ## Steps
 1. This is the website we're dealing with: <br>
 ![Website](./images/reflected-xss.png "Website") <br>
+2. This is quite simple, as we only have to inject some JS code, which is the following: `<script>alert(1)</script>`. After injecting that, the lab is solved.
+
