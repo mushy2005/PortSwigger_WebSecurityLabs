@@ -4,4 +4,4 @@
 
 ## Steps
 1. This is the website we're dealing with: <br>
-![Website](reflected-xss.png "Website") <br>
+![Website](./images/reflected-xss.png "Website") <br>
