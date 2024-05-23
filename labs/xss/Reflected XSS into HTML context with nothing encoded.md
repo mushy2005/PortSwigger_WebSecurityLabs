@@ -3,5 +3,5 @@
 - The lab contains a simple reflected XSS vulnerability in the search functionality. To solve the lab, we need to perform a XSS attack that calls the `alert` function
 
 ## Steps
-1. This is the website we're dealing with:
-![]()
+1. This is the website we're dealing with: <br>
+![Website](reflected-xss.png "Website") <br>
